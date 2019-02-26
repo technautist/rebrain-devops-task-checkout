@@ -1,0 +1,4 @@
+# Ignore tmp/ dir
+tmp/
+# Ignore VIM .swp files
+*.swp
