@@ -1,4 +1,2 @@
-#First changes
-#Basic NGINX conf file nginx.conf 
-#added files from git checkout
-
+#Данный репозиторий был создан решение для первого задания курса.
+#В файле nginx.conf хранится базовая конфигурация nginx.conf
