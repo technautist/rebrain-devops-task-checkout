@@ -1,2 +1,2 @@
-#Данный репозиторий был создан решение для первого задания курса.
-#В файле nginx.conf хранится базовая конфигурация nginx.conf
+#My first repo.
+#There is basic NGINX configuration in nginx.conf
