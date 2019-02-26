@@ -1,2 +1,2 @@
-#My first repo.
-#There is basic NGINX configuration in nginx.conf
+# My first repo.
+# There is basic NGINX configuration in nginx.conf
